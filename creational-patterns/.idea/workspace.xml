@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5bea4f7-8db2-4d94-a9dd-895a7e97dff8" name="Changes" comment="DesignPatterns">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creationalpatterns/factory/apple/Client.java" afterDir="false" />
+    <list default="true" id="e5bea4f7-8db2-4d94-a9dd-895a7e97dff8" name="Changes" comment="Copy classes to ref proj">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creationalpatterns/factory/apple/factory/Iphone11Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creationalpatterns/factory/apple/factory/Iphone11Pro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creationalpatterns/factory/apple/factory/Iphone11ProFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creationalpatterns/factory/apple/factory/IphoneXFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creationalpatterns/factory/apple/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creationalpatterns/factory/apple/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creationalpatterns/factory/apple/factory/IPhoneFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creationalpatterns/factory/apple/factory/IPhoneFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/creational-patterns" />
   </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.creationalpatterns.factory.apple.Client" />
+      <module name="creational-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.creationalpatterns.factory.apple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635967314697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Copy classes to ref proj">
+      <created>1635971273425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635971273425</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DesignPatterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="DesignPatterns" />
+    <MESSAGE value="Copy classes to ref proj" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copy classes to ref proj" />
   </component>
 </project>
